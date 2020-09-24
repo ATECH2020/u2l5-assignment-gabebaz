@@ -43,7 +43,7 @@ public class GeoLocation
     // returns a string representation of this geo location
     public String toString() 
     {
-        return "latitude: " + latitude + ", longitude: " + longitude;
+        return "Latitude: " + latitude + ", Longitude: " + longitude;
     }
 
     // returns the distance in miles between this geo location and the given
